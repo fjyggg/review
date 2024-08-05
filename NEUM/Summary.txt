@@ -1,0 +1,6 @@
+The provided supplementary materials include a video and an open-sourced project named 
+"NEUM_IL_opensourced_python". The video briefly introduces the proposed approach and 
+shows intuitive validations on the LASA data set and real robotic tasks. The open-sourced project 
+contains the kernel algorithm files, including the NEUM-learning file, original-ADS-learning file, 
+and stable ADS formulating file. A file named "Run.py" is also contained in the project to allow 
+users to run and test the proposed approach.
